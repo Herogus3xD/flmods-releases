@@ -6,7 +6,7 @@
     "failedFeeds": true
   },
   "bot": {
-    "token": "",
+    "token": "NTE4MjM2MzcyOTg1OTcwNzM1.DuTLlg.bTT_2IZrxLtNtKcDtLwmgC_sqTA",
     "enableCommands": true,
     "prefix": "~",
     "status": "online",
@@ -26,7 +26,7 @@
     "guildBackupsExpire": 7
   },
   "feeds": {
-    "refreshTimeMinutes": 15,
+    "refreshTimeMinutes": 5,
     "checkTitles": false,
     "timezone": "America/New_York",
     "dateFormat": "ddd, D MMMM YYYY, h:mm A z",
